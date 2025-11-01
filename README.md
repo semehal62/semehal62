@@ -1,7 +1,6 @@
 - 👋 Hi, I’m semehal Hailu
 - 👀 I’m interested in  programing
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on any project done using c++
+- 💞️ I’m looking to collaborate on web developement
 - 😄 Pronouns: She/Her
   
 
