@@ -8,9 +8,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=8957e5)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=f0883e)
+![Profile Views](https://komarev.com/ghpvc/?username=semehal62&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/semehal62?style=for-the-badge&logo=github&color=8957e5)
+![Stars](https://img.shields.io/github/stars/semehal62?style=for-the-badge&logo=github&color=f0883e)
 
 </div>
 
@@ -74,10 +74,10 @@ var semehal = new SoftwareEngineer
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=semehal62&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semehal62&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=semehal62&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -87,10 +87,11 @@ var semehal = new SoftwareEngineer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Semehalhailu4@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_HANDLE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semehal-hailu-436980310/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/semehal62)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:semehalhailu4@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-semehal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/semehal/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-semehal-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/semehal)
 
 </div>
 
