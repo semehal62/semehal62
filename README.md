@@ -6,15 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+AASTU;Building+Backend+Systems+%26+REST+APIs;Exploring+Clean+Architecture+%26+System+Design;Learning+Something+New+Every+Day" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<a href="https://github.com/semehal62">
-<img src="https://komarev.com/ghpvc/?username=semehal62&style=flat-square&color=203A43&label=PROFILE+VIEWS" />
-</a>
-<a href="https://github.com/semehal62?tab=followers">
-<img src="https://img.shields.io/github/followers/semehal62?style=flat-square&color=203A43&label=FOLLOWERS" />
-</a>
-
 <br/><br/>
 
 <a href="https://github.com/semehal62">GitHub</a> •
