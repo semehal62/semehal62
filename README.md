@@ -69,37 +69,6 @@ I enjoy working with APIs, databases, and software architecture. I learn best by
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📦 Inventory Management System
-
-ASP.NET Core-based inventory management system with role-based access, sales reporting, and AI-assisted sales auditing.
-
-**Tech:** C# • ASP.NET Core • EF Core • SQL Server • React
-
-<a href="https://github.com/semehal62/Inventory_Management">View Project →</a>
-
-</td>
-<td width="50%">
-
-### 💰 Expense Tracker API
-
-A RESTful API for managing personal expenses, categories, and user accounts with authentication and database integration.
-
-**Tech:** Python • Django REST Framework • SQLite
-
-<a href="https://github.com/semehal62/Expenses_Tracker_API">View Project →</a>
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🧠 Problem Solving
 
 I enjoy improving my algorithmic thinking through competitive programming and data structures and algorithms.
