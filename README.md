@@ -1,36 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Semehal%20Hailu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Semehal%20Hailu&fontSize=52&fontColor=00ff41&fontAlignY=38&animation=fadeIn&desc=%3E%20Software%20Engineer%20%7C%20Backend%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&descColor=c9d1d9" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+student+%40+AASTU+%F0%9F%8E%93;Building+with+ASP.NET+Core%2C+Django+%26+React+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+whoami;Semehal+Hailu+%7C+Software+Engineer;%3E+git+commit+-m+%22keep+building%22;while+%28alive%29+%7B+code%28%29%3B+solve%28%29%3B+%7D" alt="Typing SVG" />
 </a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=semehal62&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/semehal62?style=for-the-badge&logo=github&color=8957e5)
-![Stars](https://img.shields.io/github/stars/semehal62?style=for-the-badge&logo=github&color=f0883e)
 
 </div>
 
 ---
 
-## 👋 About Me
+## `$ whoami`
 
-```csharp
-var semehal = new SoftwareEngineer
-{
-    Name        = "Semehal Hailu Woldesilassie",
-    Location    = "Addis Ababa, Ethiopia 🇪🇹",
-    Studying    = "B.Sc. Software Engineering @ Addis Ababa Science and Technology University",
-    Loves       = new[] { "Backend Development", "Algorithms", "AI" }
-};
+```bash
+semehal@aastu:~$ whoami
+Semehal Hailu Woldesilassie
+
+semehal@aastu:~$ cat about.txt
+location : Addis Ababa, Ethiopia 🇪🇹
+studying : B.Sc. Software Engineering @ Addis Ababa Science and Technology University
+loves    : backend development, algorithms, clean architecture
+editor   : always in the terminal or VS Code
+
+semehal@aastu:~$ echo $MOTTO
+First, solve the problem. Then, write the code.
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `$ ls ~/stack`
+
+```python
+class Semehal:
+    languages = ["C#", "Java", "Python", "JavaScript", "C/C++", "PHP", "HTML", "CSS"]
+    backend   = ["ASP.NET Core", "Entity Framework Core", "Django", "Odoo"]
+    databases = ["MySQL", "PostgreSQL", "SQL Server", "SQLite"]
+    tools     = ["Git", "GitHub", "Postman", "Figma"]
+```
 
 **Languages**
 
@@ -70,20 +76,18 @@ var semehal = new SoftwareEngineer
 
 ---
 
-## 📊 GitHub Stats
+## `$ cat contacts.json`
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=semehal62&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semehal62&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=semehal62&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🌐 Let's Connect
+```json
+{
+  "name": "Semehal Hailu",
+  "email": "semehalhailu4@gmail.com",
+  "github": "semehal62",
+  "linkedin": "semehal-hailu-436980310",
+  "leetcode": "semehal",
+  "codeforces": "semehal"
+}
+```
 
 <div align="center">
 
@@ -99,8 +103,14 @@ var semehal = new SoftwareEngineer
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+```cpp
+while (true) {
+    learn();
+    build();
+    solve();
+}
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
