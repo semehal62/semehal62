@@ -24,7 +24,7 @@ var semehal = new SoftwareEngineer
     Name        = "Semehal Hailu Woldesilassie",
     Location    = "Addis Ababa, Ethiopia 🇪🇹",
     Studying    = "B.Sc. Software Engineering @ Addis Ababa Science and Technology University",
-    Loves       = new[] { "Backend Development", "Algorithms", "Clean Architecture" }
+    Loves       = new[] { "Backend Development", "Algorithms", "AI" }
 };
 ```
 
